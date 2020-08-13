@@ -1,0 +1,10 @@
+das 08:00 ás 10:00 - limpar a casa
+das 10:00 ás 11:30 - estudar sobre git
+das 11:30 ás 13:00 - almoço
+das 13:00 ás 15:00 - estudar CS50
+das 15:00 ás 15:30 - pausa
+das 15:30 ás 17:30 - fazer tarefas do curso
+das 17:30 ás 18:30 - estudar sobre linux
+das 18:30 ás 19:00 - banho
+das 19:00 ás 22:00 - curso arbyte
+
